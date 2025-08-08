@@ -31,3 +31,15 @@ A simple web application built with PHP, HTML, and CSS that allows students to e
 
    ```bash
    git clone https://github.com/your-username/student-grade-manager.git
+   
+2. **Place the files on your local or web server:**
+
+   Ensure you have PHP installed and a local server environment (e.g., XAMPP, MAMP, WAMP).
+
+3. **Access the application via browser:**
+
+   Open the main form page, e.g., http://localhost/student-grade-manager/index.php.
+
+4. **Add student grades:**
+
+   Fill out the form and submit. View all results by clicking "View Results".
